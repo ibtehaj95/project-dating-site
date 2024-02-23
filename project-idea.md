@@ -26,7 +26,11 @@ A user should indicate if they’re “open to romantic interest”, whether the
 
 # Visual Setting
 
-The room can have multiple socializing spaces, like bars, sitting areas, arcades, bakeries, kiosks, smoking areas, shops to buy chocolates and flowers. These spaces will have a fixed capacity, but each user can only stay there for an hour and won’t be allowed back until after 4 hours have passed.
+The room can have multiple socializing spaces, like bars, sitting areas, arcades (use in mini games), bakeries, kiosks, smoking areas, shops to buy chocolates and flowers. These spaces will have a fixed capacity, but each user can only stay there for an hour and won’t be allowed back until after 4 hours have passed.
+
+# Mini Games
+
+People can go and play games together, like darts, arcade games (space invaders, racing), snooker, airhockey
 
 # Role of AI
 
