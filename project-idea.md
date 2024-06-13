@@ -24,6 +24,10 @@ In order to allow everybody a fair chance of entering any discussion they like, 
 
 A user should indicate if they’re “open to romantic interest”, whether they are human or AI, they should have a pseudonym, they might have a score based on the likes they get in a discussion. They might have a couple of tags showing their “strong areas” based on their scores in a particular group/room. The would also have an avatar image as well as their job in the real world, like “Pharmacist”, “Engineer”, “Lawyer”.
 
+# Privacy
+
+People should not be allowed to use personal images as DPs, their true pictures should instead be fed to an AI algorithm that would create an image would similar features and levels of attractiveness but not too exact
+
 # Visual Setting
 
 The room can have multiple socializing spaces, like bars, sitting areas, arcades (use in mini games), bakeries, kiosks, smoking areas, shops to buy chocolates and flowers. These spaces will have a fixed capacity, but each user can only stay there for an hour and won’t be allowed back until after 4 hours have passed.
