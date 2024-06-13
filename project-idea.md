@@ -26,7 +26,7 @@ A user should indicate if they’re “open to romantic interest”, whether the
 
 # Privacy
 
-People should not be allowed to use personal images as DPs, their true pictures should instead be fed to an AI algorithm that would create an image would similar features and levels of attractiveness but not too exact
+People should not be allowed to use personal images as DPs, their true pictures should instead be fed to an AI algorithm that would create an image with similar features and levels of attractiveness but not be too exact
 
 # Visual Setting
 
