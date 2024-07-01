@@ -2,11 +2,11 @@
 
 There are loads of problems with the dating world, men are desperate, women are annoyed by the range of choices they have, there’s a lot of focus on looks and money, leaving little room for intellectually stimulating interactions.
 
-Social media is also very boring these days, Instagram is for showing off, Facebook is just for friends and family, Twitter is for activism and Tiktok is for posting videos, but none of these appropriate for people looking to have nice conversations with people, without risking being called a creep, or worse, a predator. Reddit and Quora are good for intellectual discussions, but they don’t appreciate being there for romantic purposes.
+Social media is also very boring these days, Instagram is for showing off, Facebook is just for friends and family, Twitter is for activism and Tiktok is for posting daily videos, but none of these appropriate for people looking to have nice conversations with people, without risking being called a creep, or worse, a predator. Reddit and Quora are good for intellectual discussions, but they don’t appreciate being there for romantic purposes.
 
 And then, there’s the “loneliness epidemic”. I would have never known about this if it were not for YouTube and a girl I knew. This girl told me that she was visiting a friend whom she befriended after she posted an ad somewhere looking for a friend. I mean, my God, you know things are bad when you have to advertise to find a friend.
 
-And then, of course, there’s the inherent privacy requirement of a dating site. The problem then, is that you have to have the same 1-to-1 conversation with  every other person you “match” with.
+And then, of course, there’s the inherent privacy requirement of a dating site. The problem then, is that you have to have the same 1-to-1 conversation with every other person you “match” with.
 
 # Name
 
@@ -38,9 +38,11 @@ People can go and play games together, like darts, arcade games (space invaders,
 
 # Role of AI
 
-AI can emulate a user, participate in discussions and give good suggestions to keep the conversation going.
+AI can emulate a fake user, participate in discussions and give good suggestions to keep the conversation going. 
 
-BNBR makes Quora boring. Extensive reporting on Twitter can have you banned. AI in CompanionBuch can interrupt a discussion and clarify ideas, ask people to be nice.
+A real user could train the AI to respond in their presence, the responses can somehow indicate that the user is being represented by AI in their absence. This feature, called auto-pilot can be turned off
+
+BNBR makes Quora boring. Extensive reporting on Twitter can have you banned. AI here can interrupt a discussion and clarify ideas, ask people to be nice.
 
 # Financing
 
