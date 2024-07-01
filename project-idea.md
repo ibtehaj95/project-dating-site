@@ -51,3 +51,7 @@ Donations can be asked from users to keep the servers running
 Sponsorships can be offered to companies to advertise in places, like the bar, the smoking area, the living area in the form of snacks
 
 In-game purchases, like buying someone a flower, a pack of chocolates. If you accept a gift from someone, it'd appear on your avatar for the next hour
+
+# Timeline
+
+General advice would be to first create a traditional dating or social media app and focus on having a reasonably strong foundation for privacy and security to safeguard users' interests
